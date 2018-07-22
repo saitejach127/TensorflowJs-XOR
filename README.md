@@ -10,4 +10,4 @@ Simple implimentation and practice with tensorflow.js
 
 <h4>Error</h4>
 <p>if values are not satisfying try altering the learning rate and do more model.fit functions </p>
-<p>Hack: Just refres the page a few times</p>
+<p>Hack: Just refresh the page a few times</p>
